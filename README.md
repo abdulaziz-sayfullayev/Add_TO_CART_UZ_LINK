@@ -1,2 +1,4 @@
-# Add_TO_CART_UZ_LINK
-Abdulaziz-Middle/Add-TO_Cart/edit/abdulaziz/add%20to%20cart/addtocart.html
+       <link rel="stylesheet" href="addtocart.css">
+        <script src="https://kit.fontawesome.com/92d70a2fd8.js" crossorigin="anonymous"></script>
+        UZB LINK
+        
